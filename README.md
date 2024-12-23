@@ -124,4 +124,4 @@ For any queries or contributions, feel free to connect:
 
 ## Screenshots
 
-![Senslight](https://drive.google.com/file/d/1ZZEzQ-I44GPBYcM5SGFFNz6y6mX0MeR_/view?usp=sharing)
+![SensLight Display](/asset/sensLight.png)
