@@ -22,8 +22,6 @@ SensLight is a smart automation system designed to turn lights on or off based o
   - Distance  
   - Light status  
 
----
-
 ## Hardware Components  
 
 - **ESP32**:  
@@ -38,14 +36,10 @@ SensLight is a smart automation system designed to turn lights on or off based o
 - **Relay or LED**:  
   To control the light based on object proximity.  
 
----  
-
 ## Software Requirements  
 
 - **Arduino IDE**  
 - OpenWeatherMap API Key  
-
----
 
 ## Dependencies  
 
@@ -104,7 +98,6 @@ The following libraries are required for this project:
    - Current time (in 12-hour format with AM/PM).  
    - Temperature (in Celsius).  
    - Light status (ON/OFF).  
----
 
 ## Example Output  
 
@@ -113,21 +106,15 @@ The following libraries are required for this project:
 - Dist: 25.7 in
 - Light: ON
 
----
-
 ## Future Enhancements  
 
 - Add mobile app integration for remote control and monitoring.  
 - Implement voice commands for light control.  
 - Expand functionality to include multiple sensors for larger areas.  
 
----
-
 ## License  
 
 This project is licensed under the MIT License. Feel free to contribute and enhance it further!  
-
----
 
 ## Contact  
 
